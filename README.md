@@ -1,7 +1,7 @@
 # Taxi-driver-time-analysis
 
 ## Description
-Given Chicago taxi drives' trip data, we are interested in predicting drive time for single trip given other information (pick/drop location, time, whether, driver's information, etc.)
+Given Chicago taxi drives' trip data, we are interested in predicting drive time as well as drive fares for single trip given other information (pick/drop location, time, whether, driver's information, etc.)
 
 The data source are from [Kaggle](https://www.kaggle.com/chicago/chicago-taxi-rides-2016). 
 
