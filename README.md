@@ -18,4 +18,4 @@ Because the data size is 2GB, we used __distributed computing__ for data process
 
 All codes are run in AWS EMR.
 
-The processing details are shown in notebooks.
+The processing details are shown in [notebooks](https://github.com/JiaqiCChen123/Taxi-driver-time-analysis/blob/master/perpocessing_ml_time.ipynb).
